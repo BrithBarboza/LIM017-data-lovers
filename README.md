@@ -71,5 +71,5 @@ Luego de ejecutar el test, pudimos identificar que el test salió un error ya qu
 ![Error2.1](Error2_1.jpeg)
 ![Error2.2](Error2_2.jpeg)
 
-En base a ello, se prosiguió con testear las demás funciones del archivo data.js, consiguiendo finalmente npm run test
-100% en Stmts, Funcs, Lines y 87.5% en Branch.
+En  base a ello, se prosiguió con testear las demás funciones del archivo data.js, consiguiendo finalmente npm run test
+100% en Stmts, Funcs, Lines y 87.5% en Branch
